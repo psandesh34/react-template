@@ -1,5 +1,4 @@
 ## Setup:
-<hr>
 
 - [x] Vite
 - [x] React
